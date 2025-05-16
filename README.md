@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdhyanChauhan
 - 👀 I’m interested in Cybersec
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
